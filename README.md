@@ -10,23 +10,11 @@ A modern web application built for food delivery services. The app allows users 
 - **Restaurant Listings**: Browse and search for nearby restaurants.
 - **Menu Display**: View menus with food items and prices.
 - **Order Management**: Add items to the cart and place an order.
-- **Real-time Order Tracking**: Track the status of your order.
-- **Responsive Design**: Mobile-friendly and responsive UI.
-- **Admin Panel**: Manage restaurants, menus, and orders.
 
 ## Tech Stack
 
 - **Frontend**: React.js, CSS (TailwindCSS)
 - **Backend**: Node.js, Express.js
-- **Database**: MongoDB (for managing users, orders, and restaurant data)
-- **Authentication**: JWT (JSON Web Tokens)
-- **Deployment**: Vercel (for frontend) / Heroku (for backend)
-
-## Screenshots
-
-![Food Delivery App](path-to-your-screenshot.jpg)
-
-> Add some screenshots to show what the app looks like. You can add more images for various screens like the login page, menu page, order page, etc.
 
 ## Installation
 
@@ -83,11 +71,8 @@ Ensure you have the following installed:
 
 ## Usage
 
-1. **Create a user account** or **log in** to the app.
-2. **Browse restaurants** by category or location.
 3. **Add items to your cart** and place an order.
 4. **Track your order status** in real-time.
-5. **Admin Panel**: Log in with admin credentials to manage restaurants and orders.
 
 ## Contributing
 
@@ -113,6 +98,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Tech Stack**: Modify based on your actual project setup.
 - **Screenshots**: Add relevant images to showcase the app’s UI.
 - **Contributing**: If you plan to collaborate with others, mention how they can contribute.
-- **License**: Make sure to include a license if you're planning to make your project open-source.
-
 This structure should provide a solid, user-friendly README to attract collaborators and make your project more professional!
