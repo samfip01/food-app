@@ -1,5 +1,3 @@
-Here's a solid README template for your GitHub repository. This template covers the key sections to make your repository informative, easy to navigate, and professional. You can customize it to fit your food delivery app project:
-
 ---
 
 # Food Delivery App
